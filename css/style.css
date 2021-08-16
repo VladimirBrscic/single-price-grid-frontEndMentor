@@ -146,4 +146,7 @@ body{
   .heading-why-us{
     font-size: 1.3rem;
   }
+  .why-list{
+    margin-top: 1rem;
+  }
 }
