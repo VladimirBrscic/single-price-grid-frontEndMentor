@@ -142,4 +142,8 @@ body{
   .join-text{
     max-width: 90%;
   }
+  .heading-sub,
+  .heading-why-us{
+    font-size: 1.3rem;
+  }
 }
